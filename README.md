@@ -5,7 +5,7 @@
 ![image.png](https://i.loli.net/2021/03/11/9fnp7O5XoQzWqPC.png)
 
 
-![image.png](https://i.loli.net/2021/03/11/9fnp7O5XoQzWqPC.png)
+![image.png]( https://i.loli.net/2021/03/11/hNcMAbsER4nKIJ1.png)
 
 
 棋盘覆盖问题，是一种编程问题。
