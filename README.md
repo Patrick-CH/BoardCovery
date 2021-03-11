@@ -8,7 +8,7 @@
 ![image.png]( https://i.loli.net/2021/03/11/hNcMAbsER4nKIJ1.png)
 
 
-![image.png]( https://baike.baidu.com/pic/%E6%A3%8B%E7%9B%98%E8%A6%86%E7%9B%96%E9%97%AE%E9%A2%98/3015357/0/fd039245d688d43f995a153f7d1ed21b0ff43b0f?fr=lemma&ct=single#aid=0&pic=fd039245d688d43f995a153f7d1ed21b0ff43b0f)
+![image.png]( https://i.loli.net/2021/03/11/EzwadybcGNWTkRX.png)
 
 
 棋盘覆盖问题，是一种编程问题。
